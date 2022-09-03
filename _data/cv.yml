@@ -64,18 +64,14 @@
     #   institution: University of Zurich, Zurich, Switzerland
     #   year: 1909 - 1911
 
-- title: Talks
+- title: Research Talks
   type: time_table
   contents:
-    - title: Greenwoods: A Practical Random Forest Framework for Private Training and Prediction.
-      year: 2020
+    - title:  Greenwoods: A Practical Random Forest Framework for Private Training and Prediction
+      # institution: Myntra, India
+      year: Dec 2020
       description:
-        - NeurIPS 2020 Workshop.
-
-    - title: Greenwoods: A Practical Random Forest Framework for Private Training and Prediction.
-      year: 2020
-      description:
-        - NeurIPS 2020 Workshop.
+        - Building user affinities for personalized recommender systems
 
 - title: Honors and Awards
   type: time_table
