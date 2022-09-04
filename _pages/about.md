@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Phd Student at <a href='https://www.khoury.northeastern.edu/'> Northeastern University</a>.
+subtitle: PhD Student at <a href='https://www.khoury.northeastern.edu/'> Northeastern University</a>.
 
 profile:
   align: right
