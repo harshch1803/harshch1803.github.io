@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Harsh
 middle_name:
 last_name: Chaudhari
-email: last_name.ha@northeastern.edu
+email: chaudhari.ha@northeastern.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: https://www.linkedin.com/in/harsh-chaudhari-12b52393/
 scholar_userid: https://scholar.google.com/citations?user=w1lHWJ4AAAAJ&hl=en&oi=ao
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel to reach out to me via email to discuss new and interesting ideas!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -111,7 +111,7 @@ pagination:
   enabled: false
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: chacha # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
