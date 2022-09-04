@@ -33,7 +33,7 @@
   contents:
     - title: Data Scientist
       institution: Myntra, India
-      year: Sept 20 - Apr 21
+      year: Sep 20 - Apr 21
       description:
         - Building user affinities for personalized recommender systems
       #   - Description 2.
@@ -67,22 +67,39 @@
 - title: Research Talks
   type: time_table
   contents:
-    - title:  Greenwoods: A Practical Random Forest Framework for Private Training and Prediction
-      # institution: Myntra, India
-      year: Dec 2020
-      description:
-        - Building user affinities for personalized recommender systems
+    - title: Greenwoods - A Practical Random Forest Framework for Private Training and Prediction
+      institution: NeurIPS Workshop
+      year:  Nov 20
+
+    - title: FLASH - Fast and Robust Framework for Privacy-preserving Machine Learning
+      institution: Privacy Enhancing Technologies Symposium (PETS)
+      year: JUL 20
+
+    - title: Privacy Preserving Machine Learning via Multi-party Computation
+      institution: Walmart Labs
+      year:  JAN 20
+
+    - title: ASTRA - High Throughput 3PC over Rings with Application to Secure Prediction
+      institution:  ACM Conference on Cloud Computing Security Workshop (ACM CCSW)
+      year:  NOV 19
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Selected as one among 200 young researchers to participate in the 9th Heidelberg Laureate Forum.
+
+    - year: 2019-20
       items:
-        - Max Planck Medal
+        - Received Travel Grants for ACM CCS'19 and USENIX Security'20.
+
+    - year: 2017
+      items:
+        - MHRD  Scholarship for 2.5 years to finance my thesis.
+        - Secured All India Rank  242 in GATE CS with 99.75 percentile.
+        # - Matteucci Medal
+
 
 # - title: Academic Interests
 #   type: nested_list
