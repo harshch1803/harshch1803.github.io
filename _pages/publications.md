@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Notation ' * ' denotes Alphabetical ordering. Notation '-W' denotes Workshops.
+description: Notation ' * ' denotes alphabetical ordering. Notation '-W' denotes Workshops.
 years: [2022, 2020, 2019]
 nav: true
 nav_order: 1
