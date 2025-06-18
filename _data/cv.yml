@@ -1,0 +1,96 @@
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: Northeastern University, Boston, USA
+      year: 2021-26
+      description:
+        - "Thesis - Impact of Poisoning attacks on Machine Learning Models"
+        - "Advisor - Dr. Alina Oprea"
+        - "&#127942; Graduate Research Award"
+      
+    - title: Masters in Computer Science
+      institution: Indian Institute of Science, Bangalore, India
+      year: 2017-20
+      description:
+        - "Thesis - Privacy Preserving Machine Learning via Multi-party Computation"
+        - "Advisor - Dr. Arpita Patra"
+        - "&#127942; Awarded MHRD Scholarship for 2.5 years"
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Student Researcher (includes part-time)
+      institution: Google DeepMind, London, UK
+      year: Jul 24 - Apr 25
+      description:
+        - Understanding  Injection and Propagation of Bias in Large Language Models (LLMs)
+    
+    - title: Data Scientist
+      institution: Myntra, India
+      year: SEP 20 - APR 21
+      description:
+       - Building user affinities for personalized recommender systems
+
+    - title: Research Intern
+      institution: IBM Research, India
+      year: MAY 20 - JUL 20
+      description:
+      - Efficient training of private Deep Learning (DL) models
+
+    - title: Research Intern
+      institution: Walmart Labs, India
+      year: JAN 20 - APR 20
+      description:
+        - Data poisoning attacks against differentially private recommender systems
+
+    - title: Research Intern
+      institution: Bar-Ilan University, Israel
+      year: MAY 18 - JUL 18
+      description:
+       - Implementing efficient MPC primitives and protocols.
+    
+
+- title: Talks
+  type: time_table
+  contents:
+    - title: "Propagation of Adversarial Bias to Distilled Language Models"
+      institution: Google DeepMind
+      year: Nov 24
+      description:
+        - "London, UK"
+      
+    - title: "Phantom: General Trigger Attacks on Retrieval Augmented Language Generation"
+      institution: Google DeepMind
+      year: Sep 24
+      description:
+        - "Mountain view, USA"
+        
+    - title: "SNAP: Efficient Extraction of Private Properties with Poisoning"
+      institution: 44th IEEE Symposium on Security and Privacy
+      year: MAY 23
+      description:
+        - "San Francisco, USA"
+        
+    - title: "SafeNet: Unreasonable Effectiveness of Ensembles in Collaborative Learning"
+      institution: 1st IEEE Conference on Secure and Trustworthy Machine Learning
+      year: FEB 23
+      description:
+        - "Raleigh, USA"
+        
+    - title: "Greenwoods - A Practical Random Forest Framework for Private Training and Prediction"
+      institution: NeurIPS Workshop
+      year: NOV 20
+      
+    - title: "FLASH - Fast and Robust Framework for Privacy-preserving Machine Learning"
+      institution: Privacy Enhancing Technologies Symposium (PETS)
+      year: JUL 20
+      
+    - title: "Privacy Preserving Machine Learning via Multi-party Computation"
+      institution: Walmart Labs
+      year: JAN 20
+      
+    - title: "ASTRA - High Throughput 3PC over Rings with Application to Secure Prediction"
+      institution: ACM Conference on Cloud Computing Security Workshop (ACM CCSW)
+      year: NOV 19
