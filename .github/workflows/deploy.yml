@@ -28,6 +28,13 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
           cache-version: 1
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install Jupyter
+        run: |
+          pip install jupyter nbconvert
       - name: Install ImageMagick
         run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Setup Pages
