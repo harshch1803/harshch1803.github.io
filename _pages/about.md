@@ -16,9 +16,9 @@ announcements:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a fourth-year Computer Science PhD Student at Northeastern University, where I am advised by [Alina Oprea](https://www.khoury.northeastern.edu/home/alina/). My research interests broadly lie at the intersection of machine learning, security, and privacy. Current research focuses on stress testing Large Language Models to understand and mitigate threats to participating users. Previously, I completed my Masters (via Research) from Indian Institute of Science (IISc) where I mainly worked in the area of privacy-preserving machine learning via Multi-Party Computation (MPC). 
+I am a fifth-year Computer Science PhD Student at Northeastern University, where I am advised by [Alina Oprea](https://www.khoury.northeastern.edu/home/alina/). My research interests broadly lie at the intersection of machine learning, security, and privacy. Current research focuses on stress testing Large Language Models to understand and mitigate threats to participating users. Previously, I completed my Masters (via Research) from Indian Institute of Science (IISc) where I mainly worked in the area of privacy-preserving machine learning via Multi-Party Computation (MPC). 
 
-Feel free to email me at {firstname}ch1803@gmail.com if you have exciting ideas you want to discuss!
+**I am looking for Industry Jobs starting May/June 2026. Feel free to email me at {first_name}ch1803@gmail.com if you think I could be a good fit!**
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
