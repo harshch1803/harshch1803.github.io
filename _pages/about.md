@@ -16,7 +16,7 @@ announcements:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I recently completed my PhD at Northeastern University, where I was advised by [Alina Oprea](https://www.khoury.northeastern.edu/home/alina/). My research interests broadly lie at the intersection of machine learning, security, and privacy. Current research focuses on stress testing Large Language Models to understand and mitigate threats to participating users. Previously, I completed my Masters (via Research) from Indian Institute of Science (IISc) where I mainly worked in the area of privacy-preserving machine learning via Multi-Party Computation (MPC). 
+I recently completed my PhD at Northeastern University, where I was advised by [Alina Oprea](https://www.khoury.northeastern.edu/home/alina/). My research interests broadly lie at the intersection of machine learning, security, and privacy. My work focuses on stress testing Large Language Models to understand and mitigate threats to participating users. Prior to that, I completed my Master's (by Research) at the Indian Institute of Science (IISc), where I worked primarily on privacy-preserving machine learning via Multi-Party Computation (MPC).
 
 <!-- **I am looking for Industry Jobs starting May/June 2026. Feel free to email me at {first_name}ch1803@gmail.com if you think I could be a good fit!** -->
 
